@@ -10,5 +10,6 @@
 该问题为CEC2017-BoundContrained 优化问题 包含函数F1,F3-F30.F2因为不稳定 已经剔除。
 参考链接 https://github.com/P-N-Suganthan/CEC2017-BoundContrained
 论文链接 https://ieeexplore.ieee.org/document/7969456/
+改写不易 希望大佬点个star
 
 
