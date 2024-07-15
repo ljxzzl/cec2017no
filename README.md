@@ -21,7 +21,9 @@ cec2020RW步骤：
 参考链接 https://github.com/P-N-Suganthan/2020-RW-Constrained-Optimisation
 
 使用情况：
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c8f2bcce-49c7-4b4c-ba6d-5a56217b2ac7)
+
+
 其中NAN是算法并没有找到没有不违背约束值的解，在函数F1中有具体演示看是否违背了约束解
 
 
