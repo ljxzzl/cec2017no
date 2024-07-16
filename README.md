@@ -1,5 +1,5 @@
 两个测试集均适配platemo 平台
-cec2017no步骤 
+CEC2017-BoundContrained测试集步骤 
 前置步骤：[安装mex插件] (https://blog.csdn.net/M_try/article/details/88944673 得配环境 )
 
 解压到PlatEMO\Problems\Single-objective optimization目录下
